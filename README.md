@@ -253,13 +253,13 @@ Through this project, I gained hands-on experience in:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sameena Kausar Magami**
 
 Java Full Stack Developer
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/sameena-kausar-magami-215a08333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sameenakausar-05
 
 ---
 
