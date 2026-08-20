@@ -154,7 +154,7 @@ LoomAndLuxe/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/LoomAndLuxe.git
+git clone: https://github.com/sameenakausar-05/Loom-Luxe.git
 ```
 
 ### Import Project
